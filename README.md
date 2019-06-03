@@ -1,2 +1,2 @@
-# YandexTaxiLogotipe
+# yandexTaxiLogotype
 On div linear-gradient
