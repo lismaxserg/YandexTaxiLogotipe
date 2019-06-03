@@ -1,0 +1,17 @@
+div { 
+	border-radius: 9px;
+	background:
+	
+	linear-gradient(178deg, #c8c8c8 0px , transparent 7px) 0 90px, 
+	
+	linear-gradient(45deg, #eeedef 25%, transparent 25%) 0 0,
+
+	linear-gradient(45deg, transparent 75%, #eeedef 75%) -90px 90px,
+	
+	linear-gradient(45deg, transparent 75%, #0c0c0c 75%) 0 90px,
+	
+	linear-gradient(45deg, #0c0c0c 25%, transparent 25%) 90px 0px,
+
+	#f8e34b;
+
+}
